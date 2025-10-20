@@ -1,6 +1,6 @@
 services:
-  rust-template:
-    container_name: rust-template
+  rust--crash-course:
+    container_name: rust-crash-course
     build:
       context: .
       dockerfile: Dockerfile
